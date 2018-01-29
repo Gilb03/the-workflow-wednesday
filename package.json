@@ -1,0 +1,32 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "now": {
+    "alias": "fridays.hill7.org"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "lodash": "^4.17.4",
+    "next": "^3.0.1-beta.18",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-google-maps": "^7.2.0",
+    "react-markdown": "^2.5.0",
+    "react-tweet-embed": "^1.0.7",
+    "react-typekit": "^1.1.0"
+  }
+}
