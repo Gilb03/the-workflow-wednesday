@@ -7,7 +7,7 @@ const Organizers = () => (
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/anaptfox"><img src="https://taronfoxworth.com/img/profile.png" alt="" /></a>
+        <a href="https://twitter.com/anaptfox"><img src="https://taronfoxworth.com/img/static/profile.2d05b0ed.jpg" alt="" /></a>
         <p className="title is-5">Taron Foxworth</p>
       </div>
       <div className="column">
