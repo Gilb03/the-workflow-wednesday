@@ -1,7 +1,7 @@
 import TweetEmbed from './tweet-embed';
 
 const Twitter = () => (
-  <div style={{ 'background-color': 'white' }} className="section">
+  <div style={{ 'backgroundColor': 'white' }} className="section">
     <div className="columns">
       <div className="column">
         <TweetEmbed id={"890734688138141697"} options={{ cards: 'hidden' }} />

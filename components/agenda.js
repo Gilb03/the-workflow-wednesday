@@ -1,6 +1,6 @@
 const Agenda = () => (
-  <div style={{ 'background-color': 'white' }} className="section">
-    <h1 className="title is-2" style={{ 'text-align': 'center' }}>Agenda</h1>
+  <div style={{ 'backgroundColor': 'white' }} className="section">
+    <h1 className="title is-2" style={{ 'textAlign': 'center' }}>Agenda</h1>
     <div className="elevator columns">
       <div className="column is-6 is-offset-3">
         <div className="content">

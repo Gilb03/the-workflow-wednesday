@@ -34,7 +34,7 @@ var _propTypes2 = _interopRequireDefault(_propTypes);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/fox/src/hillman-fridays/components/tweet-embed.js';
+var _jsxFileName = '/Users/taronfoxworth/src/hillman-fridays/components/tweet-embed.js';
 
 
 var callbacks = [];

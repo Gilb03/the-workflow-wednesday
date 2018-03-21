@@ -1,5 +1,5 @@
 const Organizers = () => (
-  <div id="organizers" style={{ 'background-color': 'white', 'text-align': 'center' }} className="section">
+  <div id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center' }} className="section">
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
       {/* <div className="column">
@@ -7,7 +7,7 @@ const Organizers = () => (
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/anaptfox"><img src="https://taronfoxworth.com/img/static/profile.2d05b0ed.jpg" alt="" /></a>
+        <a href="https://twitter.com/anaptfox"><img src="/static/taron.jpg" alt="" /></a>
         <p className="title is-5">Taron Foxworth</p>
       </div>
       <div className="column">

@@ -14,15 +14,15 @@ var _react2 = _interopRequireDefault(_react);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/fox/src/hillman-fridays/components/agenda.js';
+var _jsxFileName = '/Users/taronfoxworth/src/hillman-fridays/components/agenda.js';
 
 var Agenda = function Agenda() {
-  return _react2.default.createElement('div', { style: { 'background-color': 'white' }, className: 'section', 'data-jsx': 4277607624,
+  return _react2.default.createElement('div', { style: { 'backgroundColor': 'white' }, className: 'section', 'data-jsx': 4277607624,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 2
     }
-  }, _react2.default.createElement('h1', { className: 'title is-2', style: { 'text-align': 'center' }, 'data-jsx': 4277607624,
+  }, _react2.default.createElement('h1', { className: 'title is-2', style: { 'textAlign': 'center' }, 'data-jsx': 4277607624,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -68,7 +68,7 @@ var Agenda = function Agenda() {
     }
   }, 'The End (11:45pm-Midnight)'))))), _react2.default.createElement(_style2.default, {
     styleId: 4277607624,
-    css: 'img[data-jsx="4277607624"]{height:250px;border-radius:50%}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvYWdlbmRhLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9CZ0IsQUFHc0IsY0FDaEIsbUJBQUMiLCJmaWxlIjoiY29tcG9uZW50cy9hZ2VuZGEuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2ZveC9zcmMvaGlsbG1hbi1mcmlkYXlzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgQWdlbmRhID0gKCkgPT4gKFxuICA8ZGl2IHN0eWxlPXt7ICdiYWNrZ3JvdW5kLWNvbG9yJzogJ3doaXRlJyB9fSBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGgxIGNsYXNzTmFtZT1cInRpdGxlIGlzLTJcIiBzdHlsZT17eyAndGV4dC1hbGlnbic6ICdjZW50ZXInIH19PkFnZW5kYTwvaDE+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJlbGV2YXRvciBjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbiBpcy02IGlzLW9mZnNldC0zXCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29udGVudFwiPlxuICAgICAgICAgIDx1bD5cbiAgICAgICAgICAgIDxsaT5cbiAgICAgICAgICAgICAgV2VsY29tZSAoN3BtLTc6NDVwbSk6IE1lZXQgdGhlIHRlYW0gYW5kIG1pbmdsZSB3aGlsZSBmb2xrcyBnZXQgc2V0dGxlZCBpblxuICAgICAgICAgICAgPC9saT5cbiAgICAgICAgICAgIDxsaT5cbiAgICAgICAgICAgICAgUHJvamVjdCAoNzo0NXBtLTExOjQ1cG0pOiBXb3JrIG9uIHRoaW5ncyB5b3UgbG92ZS4gV2hhdCBtYWtlcyB5b3UgdGljaz9cbiAgICAgICAgICAgIDwvbGk+XG4gICAgICAgICAgICA8bGk+XG4gICAgICAgICAgICAgIFRoZSBFbmQgKDExOjQ1cG0tTWlkbmlnaHQpXG4gICAgICAgICAgICA8L2xpPlxuICAgICAgICAgIDwvdWw+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgaW1nIHtcbiAgICAgICAgaGVpZ2h0OiAyNTBweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlXG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgQWdlbmRhXG4iXX0= */\n/*@ sourceURL=components/agenda.js */'
+    css: 'img[data-jsx="4277607624"]{height:250px;border-radius:50%}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvYWdlbmRhLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9CZ0IsQUFHc0IsY0FDaEIsbUJBQUMiLCJmaWxlIjoiY29tcG9uZW50cy9hZ2VuZGEuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL3Rhcm9uZm94d29ydGgvc3JjL2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IEFnZW5kYSA9ICgpID0+IChcbiAgPGRpdiBzdHlsZT17eyAnYmFja2dyb3VuZENvbG9yJzogJ3doaXRlJyB9fSBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGgxIGNsYXNzTmFtZT1cInRpdGxlIGlzLTJcIiBzdHlsZT17eyAndGV4dEFsaWduJzogJ2NlbnRlcicgfX0+QWdlbmRhPC9oMT5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImVsZXZhdG9yIGNvbHVtbnNcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uIGlzLTYgaXMtb2Zmc2V0LTNcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb250ZW50XCI+XG4gICAgICAgICAgPHVsPlxuICAgICAgICAgICAgPGxpPlxuICAgICAgICAgICAgICBXZWxjb21lICg3cG0tNzo0NXBtKTogTWVldCB0aGUgdGVhbSBhbmQgbWluZ2xlIHdoaWxlIGZvbGtzIGdldCBzZXR0bGVkIGluXG4gICAgICAgICAgICA8L2xpPlxuICAgICAgICAgICAgPGxpPlxuICAgICAgICAgICAgICBQcm9qZWN0ICg3OjQ1cG0tMTE6NDVwbSk6IFdvcmsgb24gdGhpbmdzIHlvdSBsb3ZlLiBXaGF0IG1ha2VzIHlvdSB0aWNrP1xuICAgICAgICAgICAgPC9saT5cbiAgICAgICAgICAgIDxsaT5cbiAgICAgICAgICAgICAgVGhlIEVuZCAoMTE6NDVwbS1NaWRuaWdodClcbiAgICAgICAgICAgIDwvbGk+XG4gICAgICAgICAgPC91bD5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICBpbWcge1xuICAgICAgICBoZWlnaHQ6IDI1MHB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCVcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBBZ2VuZGFcbiJdfQ== */\n/*@ sourceURL=components/agenda.js */'
   }));
 };
 

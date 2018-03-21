@@ -62,7 +62,7 @@ var _twitter2 = _interopRequireDefault(_twitter);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/fox/src/hillman-fridays/pages/index.js?entry';
+var _jsxFileName = '/Users/taronfoxworth/src/hillman-fridays/pages/index.js?entry';
 
 exports.default = function () {
   return _react2.default.createElement(_layout2.default, {

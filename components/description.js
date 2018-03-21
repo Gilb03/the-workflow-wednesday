@@ -1,5 +1,5 @@
 const Description = () => (
-  <div style={{ 'background-color': '#282828' }} className="section">
+  <div style={{ 'backgroundColor': '#282828' }} className="section">
     <div className="elevator columns">
       <div className="column is-6 is-offset-3">
         <h3 className="title is-3">Creation. Community. Collaboration.</h3>

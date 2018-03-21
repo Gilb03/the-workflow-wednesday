@@ -10,7 +10,7 @@ var _react2 = _interopRequireDefault(_react);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/fox/src/hillman-fridays/components/group-banner.js';
+var _jsxFileName = '/Users/taronfoxworth/src/hillman-fridays/components/group-banner.js';
 
 var GroupBanner = function GroupBanner() {
   return _react2.default.createElement('div', {
