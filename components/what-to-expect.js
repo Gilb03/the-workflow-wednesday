@@ -1,6 +1,7 @@
 const WhatToExpect = () => (
   <div id="what-to-expect" className="section">
     <h1 className="title is-2">What To Expect</h1>
+    </div>
     <div className="columns">
       <div className="column ">
         <h3 className="title is-3">Collaborate</h3>
@@ -20,7 +21,7 @@ const WhatToExpect = () => (
       </div>
       <div className="column">
         <h3 className="title is-3">On Your Time</h3>
-        <p>There is no commitment necessary, Friday should flow, and that’s just how it goes. We are located downtown, on the riverfront in close proximity to popular local bars and night clubs. Smale Park provides a great view and a short bridge walk over to Covington where there are also local breweries and bars.  </p>
+        <p>There is no commitment necessary, Friday should flow, and that’s just how it goes. We are located in Over The Rhine, in close proximity to popular local bars and night clubs. OTR provides great nightlife scenery and is a short drive from Covington where there are also local breweries and bars.  </p>
       </div>
     </div>
     <style jsx>{`
