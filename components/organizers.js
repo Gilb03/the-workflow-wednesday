@@ -19,7 +19,7 @@ const Organizers = () => (
       .elevator {
         text-align: center;
       }
-      img {
+      .img {
         height: 250px;
         margin-bottom:10px;
         border-radius: 50%

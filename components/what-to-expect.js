@@ -33,7 +33,7 @@ const WhatToExpect = () => (
       .elevator {
         text-align: center;
       }
-      img {
+      .img {
         height: 250px;
         border-radius: 50%
       }
