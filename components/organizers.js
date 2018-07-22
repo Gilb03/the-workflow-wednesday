@@ -11,7 +11,7 @@ const Organizers = () => (
         <p className="title is-5">Taron Foxworth</p>
       </div>
       <div className="column">
-        <a href="https://twitter.com/_gthebrogod"><img src="/static/gil.jpg" alt="" /></a>
+        <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a>
         <p className="title is-5">Gilbert King</p>
       </div>
     </div>

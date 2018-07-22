@@ -1,4 +1,5 @@
 const WhatToExpect = () => (
+  <div>
   <div id="what-to-expect" className="section">
     <h1 className="title is-2">What To Expect</h1>
     </div>
@@ -37,7 +38,7 @@ const WhatToExpect = () => (
         border-radius: 50%
       }
     `}</style>
-  </div>
+</div>    
 )
 
 export default WhatToExpect
