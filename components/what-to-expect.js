@@ -33,9 +33,13 @@ const WhatToExpect = () => (
       .elevator {
         text-align: center;
       }
+      .title {
+        font-weight: bold;
+        text-align: center;
+      }
       .img {
         height: 250px;
-        border-radius: 50%
+        border-radius: 50%;
       }
     `}</style>
 </div>    

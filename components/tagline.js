@@ -2,7 +2,7 @@ const TagLine = () => (
   <div style={{ 'backgroundColor': '#282828' }} className="section">
     <div className="elevator columns">
       <div className="column is-6 is-offset-3">
-        <h3 className="title is-4">Every 2nd and final Friday of each month at 7pm, the Hillman Accelerator is open for you.</h3>
+        <h3 className="title is-4">EVERY SECOND AND FINAL FRIDAY AT 7PM, THE HILLMAN ACCELERATOR IS OPEN FOR YOU.</h3>
       </div>
     </div>
     <style jsx>{`
@@ -11,7 +11,8 @@ const TagLine = () => (
         color: white;
       }
       .title {
-        color: white
+      color: white;
+      font-weight: bold;
       }
     `}</style>
   </div>

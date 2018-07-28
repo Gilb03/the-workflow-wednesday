@@ -62,6 +62,7 @@ const Location = () => (
       }
       .location {
         color: black;
+        font-weight: bold;
       }
     `}</style>
   </div>

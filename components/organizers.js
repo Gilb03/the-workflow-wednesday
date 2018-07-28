@@ -1,5 +1,5 @@
 const Organizers = () => (
-  <div id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center' }} className="section">
+  <div className="section" id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center' }}>
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
       {/* <div className="column">
@@ -19,13 +19,15 @@ const Organizers = () => (
       .elevator {
         text-align: center;
       }
-      .img {
+      .title {
+        font-weight: bold;
+      }
+      img {
         height: 250px;
         margin-bottom:10px;
-        border-radius: 50%
+        border-radius: 50%;
       }
     `}</style>
-  </div>
-)
+  </div>)
 
 export default Organizers

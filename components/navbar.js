@@ -67,8 +67,8 @@ const Navbar = () => (
         {/* background-color: #f36d21;  */}
       }
       .navbar-item {
-        {/* color: white;
-        font-weight:bold; */}
+        {/* color: white */;}
+        font-weight: bold;
       }
       img {
         height: 250px;
