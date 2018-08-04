@@ -24,6 +24,7 @@ const SubmitForm = () => (
       .title {
         color: white;
         text-align: center;
+        font-weight: bold;
       }
     `}</style>
   </div>

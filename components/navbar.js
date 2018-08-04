@@ -1,24 +1,19 @@
+co
+
 const Navbar = () => (
-  <div>
+<div>
     <nav className="navbar ">
       <div className="navbar-menu">
-        <div className="navbar-start">
+<div className="navbar-start">
           <a className="navbar-item" href="#what-to-expect">What To Expect</a>
           <a className="navbar-item" href="#location">Location</a>
           <a className="navbar-item" href="#organizers">Organizers</a>
-        </div>
-
-        <div className="navbar-end">
-          <a className="navbar-item" href="https://www.instagram.com/hill7org/" target="_blank">
-            Instagram
-              </a>
-          <a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">
-            Facebook
-              </a>
-          <a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">
-            Twitter
-              </a>
-          <div className="navbar-item">
+</div>
+<div className="navbar-end">
+          <a className="navbar-item" href="https://www.instagram.com/hill7org/" target="_blank">Instagram</a>
+          <a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>
+          <a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">Twitter</a>
+<div className="navbar-item">
             <div className="field is-grouped">
               <p className="control">
                 <a
@@ -28,8 +23,8 @@ const Navbar = () => (
                 </a>
               </p>
             </div>
-          </div>
-          <div className="navbar-item">
+</div>
+<div className="navbar-item">
             <div className="field is-grouped">
               <p className="control">
                 <a id="twitter"
@@ -46,8 +41,8 @@ const Navbar = () => (
                 </a>
               </p>
             </div>
-          </div>
-        </div>
+</div>
+</div>
       </div>
     </nav >
     <style jsx>{`
@@ -64,7 +59,7 @@ const Navbar = () => (
           color: white;
       }
       .navbar {
-        {/* background-color: #f36d21;  */}
+        { background-color: #f36d21; }
       }
       .navbar-item {
         {/* color: white */;}
@@ -75,7 +70,7 @@ const Navbar = () => (
         border-radius: 50%
       }
     `}</style>
-  </div >
+</div>
 
 )
 
