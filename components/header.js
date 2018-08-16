@@ -8,7 +8,7 @@ const Header = () => (
   <div>
     <div className="header section">
       <img className="logo" src="/static/logo.png" alt="" />
-      {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Every Friday, the Hillman Accellator is open for you to just create.</p> */}
+      {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Every 2nd and 4th Wednesday, at 7:00pm, work with us.</p> */}
       {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Cincinati, Ohio</p> */}
       {/* <div className="column is-half is-offset-one-quarter">
           <a style={{'text-alight': 'center', margin: 'auto', display: 'block', width: '200'}} className="button">Register</a>
