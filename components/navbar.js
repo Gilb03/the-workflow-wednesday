@@ -1,13 +1,11 @@
-co
-
 const Navbar = () => (
 <div>
-    <nav className="navbar ">
-      <div className="navbar-menu">
+  <nav className="navbar ">
+  <div className="navbar-menu">
 <div className="navbar-start">
-          <a className="navbar-item" href="#what-to-expect">What To Expect</a>
-          <a className="navbar-item" href="#location">Location</a>
-          <a className="navbar-item" href="#organizers">Organizers</a>
+  <a className="navbar-item" href="#what-to-expect">What To Expect</a>
+  <a className="navbar-item" href="#location">Location</a>
+  <a className="navbar-item" href="#organizers">Organizers</a>
 </div>
 
 <div className="navbar-end">
@@ -46,7 +44,7 @@ const Navbar = () => (
             </div>
 </div>
       </div>
-    </nav >
+    </nav>
     <style jsx>{`
       .elevator {
         text-align: center;
