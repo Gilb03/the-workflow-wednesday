@@ -9,10 +9,13 @@ const Navbar = () => (
           <a className="navbar-item" href="#location">Location</a>
           <a className="navbar-item" href="#organizers">Organizers</a>
 </div>
+
 <div className="navbar-end">
           <a className="navbar-item" href="https://www.instagram.com/hill7org/" target="_blank">Instagram</a>
           <a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>
           <a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">Twitter</a>
+</div>
+
 <div className="navbar-item">
             <div className="field is-grouped">
               <p className="control">
@@ -41,7 +44,6 @@ const Navbar = () => (
                 </a>
               </p>
             </div>
-</div>
 </div>
       </div>
     </nav >
