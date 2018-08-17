@@ -18,11 +18,11 @@ const WhatToExpect = () => (
     <div className="columns">
       <div className="column">
         <h3 className="title is-3">Pizza And Beer</h3>
-        <p>Hey, It’s Friday, we’re here to relax, vibe, and even get work done. What’s Friday without a cold brew and not having to worry about dinner plans. Plain and simple! </p>
+        <p>Hey, It’s Hump Day, we’re here to relax, vibe, and even get work done. What’s a mid-week meet-up without a cold brew and not having to worry about dinner plans. Plain and simple! </p>
       </div>
       <div className="column">
         <h3 className="title is-3">On Your Time</h3>
-        <p>There is no commitment necessary, Friday should flow, and that’s just how it goes. We are located in Over The Rhine, in close proximity to popular local bars and night clubs. OTR provides great nightlife scenery and is a short drive from Covington where there are also local breweries and bars.  </p>
+        <p>There is no commitment necessary, Wednesdays should flow, and that’s just how it goes. We are located in Over The Rhine, in close proximity to popular local bars and night clubs. OTR provides great nightlife scenery and is a short drive from Covington where there are also local breweries and bars.  </p>
       </div>
     </div>
     <style jsx>{`

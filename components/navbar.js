@@ -1,9 +1,9 @@
 co
 
 const Navbar = () => (
-<div>
-    <nav className="navbar ">
-      <div className="navbar-menu">
+    div>
+      <nav>
+    <div className="navbar-menu">
 <div className="navbar-start">
           <a className="navbar-item" href="#what-to-expect">What To Expect</a>
           <a className="navbar-item" href="#location">Location</a>
@@ -44,7 +44,8 @@ const Navbar = () => (
 </div>
 </div>
       </div>
-    </nav >
+)
+</nav >
     <style jsx>{`
       .elevator {
         text-align: center;
@@ -70,8 +71,6 @@ const Navbar = () => (
         border-radius: 50%
       }
     `}</style>
-</div>
-
 )
 
 export default Navbar

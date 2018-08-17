@@ -7,8 +7,8 @@ const Organizers = () => (
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/anaptfox"><img src="/static/taron.jpg" alt="" /></a>
-        <p className="title is-5">Taron Foxworth</p>
+        <a href="https://twitter.com/bhopp_06"><img src="/static/taron.jpg" alt="" /></a>
+        <p className="title is-5">Brandon Hopper</p>
       </div>
       <div className="column">
         <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a>
