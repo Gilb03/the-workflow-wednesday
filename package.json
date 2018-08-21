@@ -22,11 +22,12 @@
     "isomorphic-unfetch": "^2.1.1",
     "lodash": "^4.17.10",
     "next": "^6.1.1",
+    "npm-check-updates": "^2.14.2",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-google-maps": "^9.4.5",
     "react-markdown": "^2.5.1",
-    "react-tweet-embed": "^1.1.0",
+    "react-tweet-embed": "^1.1.1",
     "react-typekit": "^1.1.3"
   }
 }

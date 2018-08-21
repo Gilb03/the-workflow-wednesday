@@ -1,8 +1,6 @@
-co
-
 const Navbar = () => (
-    div>
-      <nav>
+
+    <nav>
     <div className="navbar-menu">
 <div className="navbar-start">
           <a className="navbar-item" href="#what-to-expect">What To Expect</a>
@@ -14,18 +12,18 @@ const Navbar = () => (
           <a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>
           <a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">Twitter</a>
 <div className="navbar-item">
-            <div className="field is-grouped">
+<div className="field is-grouped">
               <p className="control">
-                <a
+<a
                   className="button is-white"
                   href="#signup">
                   <span>Sign Up</span>
-                </a>
+</a>
               </p>
-            </div>
+</div>
 </div>
 <div className="navbar-item">
-            <div className="field is-grouped">
+<div className="field is-grouped">
               <p className="control">
                 <a id="twitter"
                   className="button is-white"
@@ -40,37 +38,38 @@ const Navbar = () => (
                   <span>Tweet</span>
                 </a>
               </p>
-            </div>
+</div>                 
 </div>
 </div>
-      </div>
+</div>
 )
-</nav >
-    <style jsx>{`
-      .elevator {
+</nav>
+)(   
+  <style jsx>{`
+.elevator {
         text-align: center;
       }
       #twitter {
           color: #55acee;
           border-color: #55acee;
       }
-      #twitter:hover {
+#twitter:hover {
           background: #55acee;
           border-color: #55acee;
           color: white;
       }
-      .navbar {
+.navbar {
         { background-color: #f36d21; }
       }
-      .navbar-item {
+.navbar-item {
         {/* color: white */;}
         font-weight: bold;
       }
-      img {
+img {
         height: 250px;
-        border-radius: 50%
-      }
-    `}</style>
+        border-radius: 50%}
+  `}</style>
+    
 )
 
 export default Navbar
