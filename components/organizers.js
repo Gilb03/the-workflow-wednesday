@@ -1,4 +1,4 @@
-const Organizers = () => (
+ const Organizers = () => (
   <div className="section" id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center' }}>
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
