@@ -1,5 +1,5 @@
  const Organizers = () => (
-  <div className="section" id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center' }}>
+  <div className="section" id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center'}}>
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
       {/* <div className="column">
@@ -7,7 +7,7 @@
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/bhopp_06"><img src="/static/taron.jpg" alt="" /></a>
+        <a href="https://twitter.com/bhopp_06"><img src="/static/BHOPP.jpg" alt="" /></a>
         <p className="title is-5">Brandon Hopper</p>
       </div>
       <div className="column">
@@ -24,6 +24,7 @@
       }
       img {
         height: 250px;
+        width:  250px;
         margin-bottom:10px;
         border-radius: 50%;
       }

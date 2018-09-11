@@ -11,7 +11,7 @@ const Description = () => (
         color: white;
       }
       .title {
-        color: white
+        color: white;
         font-weight: bold;
       }
     `}</style>

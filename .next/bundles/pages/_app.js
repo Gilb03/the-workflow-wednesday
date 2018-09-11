@@ -72,7 +72,7 @@ var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("./
 
 var _inherits2 = _interopRequireDefault(__webpack_require__("./node_modules/@babel/runtime/helpers/inherits.js"));
 
-var _react = _interopRequireWildcard(__webpack_require__("./node_modules/react/react.js"));
+var _react = _interopRequireWildcard(__webpack_require__("./node_modules/react/index.js"));
 
 var _propTypes = _interopRequireDefault(__webpack_require__("./node_modules/next/node_modules/prop-types/index.js"));
 

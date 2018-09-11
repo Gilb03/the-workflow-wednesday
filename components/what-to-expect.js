@@ -1,6 +1,6 @@
 const WhatToExpect = () => (
   <div>
-  <div id="what-to-expect" className="section">
+  <div id="what-to-expect" className="section" style={{'textAlign': 'center'}}>
     <h1 className="title is-2">What To Expect</h1>
     </div>
     <div className="columns">

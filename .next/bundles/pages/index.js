@@ -9,7 +9,7 @@ __NEXT_REGISTER_PAGE('/', function() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/description.js";
 
@@ -24,28 +24,28 @@ var Description = function Description() {
       fileName: _jsxFileName,
       lineNumber: 2
     },
-    className: "jsx-1309721197" + " " + "section"
+    className: "jsx-2932254444" + " " + "section"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     },
-    className: "jsx-1309721197" + " " + "elevator columns"
+    className: "jsx-2932254444" + " " + "elevator columns"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
-    className: "jsx-1309721197" + " " + "column is-6 is-offset-3"
+    className: "jsx-2932254444" + " " + "column is-6 is-offset-3"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("h3", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
-    className: "jsx-1309721197" + " " + "title is-4"
+    className: "jsx-2932254444" + " " + "title is-4"
   }, "CREATION. COMMUNITY. COLLABORATION."))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
-    styleId: "1309721197",
-    css: ".elevator.jsx-1309721197{text-align:center;color:white;}.title.jsx-1309721197{color:white font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvZGVzY3JpcHRpb24uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBT2dCLEFBRzJCLEFBS0Qsa0JBSkwsV0FLZCxDQUpBIiwiZmlsZSI6ImNvbXBvbmVudHMvZGVzY3JpcHRpb24uanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2dpbGJlcnRraW5nL3NyYy9oaWxsbWFuX2ZyaWRheS9oaWxsbWFuLWZyaWRheXMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBEZXNjcmlwdGlvbiA9ICgpID0+IChcbiAgPGRpdiBzdHlsZT17eyAnYmFja2dyb3VuZENvbG9yJzogJyMyODI4MjgnIH19IGNsYXNzTmFtZT1cInNlY3Rpb25cIj5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImVsZXZhdG9yIGNvbHVtbnNcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uIGlzLTYgaXMtb2Zmc2V0LTNcIj5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTRcIj5DUkVBVElPTi4gQ09NTVVOSVRZLiBDT0xMQUJPUkFUSU9OLjwvaDM+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAuZWxldmF0b3Ige1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgIH1cbiAgICAgIC50aXRsZSB7XG4gICAgICAgIGNvbG9yOiB3aGl0ZVxuICAgICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBEZXNjcmlwdGlvblxuIl19 */\n/*@ sourceURL=components/description.js */"
+    styleId: "2932254444",
+    css: ".elevator.jsx-2932254444{text-align:center;color:white;}.title.jsx-2932254444{color:white;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvZGVzY3JpcHRpb24uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBT2dCLEFBOEUyQixBQUlOLFlBQ0ssTUFKTCxXQUtkLENBSkEiLCJmaWxlIjoiY29tcG9uZW50cy9kZXNjcmlwdGlvbi5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL2hpbGxtYW5fZnJpZGF5L2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IERlc2NyaXB0aW9uID0gKCkgPT4gKFxuICA8ZGl2IHN0eWxlPXt7ICdiYWNrZ3JvdW5kQ29sb3InOiAnIzI4MjgyOCcgfX0gY2xhc3NOYW1lPVwic2VjdGlvblwiPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZWxldmF0b3IgY29sdW1uc1wiPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW4gaXMtNiBpcy1vZmZzZXQtM1wiPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtNFwiPkNSRUFUSU9OLiBDT01NVU5JVFkuIENPTExBQk9SQVRJT04uPC9oMz5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgfVxuICAgICAgLnRpdGxlIHtcbiAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBEZXNjcmlwdGlvblxuIl19 */\n/*@ sourceURL=components/description.js */"
   }));
 };
 
@@ -59,7 +59,7 @@ var Description = function Description() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/footer.js";
 
@@ -108,7 +108,7 @@ var Footer = function Footer() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/form.js";
 
@@ -214,7 +214,7 @@ var SubmitForm = function SubmitForm() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/group-banner.js";
 
@@ -248,7 +248,7 @@ var GroupBanner = function GroupBanner() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_link__ = __webpack_require__("./node_modules/next/link.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_link___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_next_link__);
@@ -297,7 +297,7 @@ var Header = function Header() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_head__ = __webpack_require__("./node_modules/next/head.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_head___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_next_head__);
@@ -328,7 +328,7 @@ var Layout = function Layout(_ref) {
       lineNumber: 7
     },
     className: "jsx-2869033619"
-  }, 'Hillman Fridays'), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("meta", {
+  }, 'Workflow Wednesdays'), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("meta", {
     charSet: "utf-8",
     __source: {
       fileName: _jsxFileName,
@@ -374,7 +374,7 @@ var Layout = function Layout(_ref) {
     className: "jsx-2869033619"
   })), children, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
     styleId: "2869033619",
-    css: "body{font-family:\"franklin-gothic-urw\";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvbGF5b3V0LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWV1QixBQUcyQyxrQ0FDcEMiLCJmaWxlIjoiY29tcG9uZW50cy9sYXlvdXQuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2dpbGJlcnRraW5nL3NyYy9oaWxsbWFuX2ZyaWRheS9oaWxsbWFuLWZyaWRheXMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgVHlwZWtpdCBmcm9tICdyZWFjdC10eXBla2l0JztcblxuY29uc3QgTGF5b3V0ID0gKHtjaGlsZHJlbn0pID0+IChcbiAgPGRpdj5cbiAgICA8SGVhZD5cbiAgICAgIDx0aXRsZT57J0hpbGxtYW4gRnJpZGF5cyd9PC90aXRsZT5cbiAgICAgIDxtZXRhIGNoYXJTZXQ9J3V0Zi04JyAvPlxuICAgICAgPGxpbmsgcmVsPVwic3R5bGVzaGVldFwiIGhyZWY9XCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9idWxtYS8wLjQuMy9jc3MvYnVsbWEuY3NzXCIgLz5cbiAgICAgIDxsaW5rIHJlbD1cInN0eWxlc2hlZXRcIiBocmVmPVwiaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9mb250LWF3ZXNvbWUvNC43LjAvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzXCIgLz5cbiAgICAgIDxzY3JpcHQgc3JjPVwiaHR0cHM6Ly9tYXBzLmdvb2dsZWFwaXMuY29tL21hcHMvYXBpL2pzP2tleT1BSXphU3lDR1VHODhZVmlNMmhfck1xQTJZV0RoaXRwN0dvb1hRN2dcIj48L3NjcmlwdD5cbiAgICAgIDxUeXBla2l0IGtpdElkPVwiZ3pjN3hpeVwiIC8+XG4gICAgICA8bWV0YSBuYW1lPSd2aWV3cG9ydCcgY29udGVudD0naW5pdGlhbC1zY2FsZT0xLjAsIHdpZHRoPWRldmljZS13aWR0aCcgLz5cbiAgICA8L0hlYWQ+XG4gICAgeyBjaGlsZHJlbiB9XG4gICAgPHN0eWxlIGdsb2JhbCBqc3g+e2BcbiAgICAgIGJvZHkge1xuICAgICAgICBmb250LWZhbWlseTogXCJmcmFua2xpbi1nb3RoaWMtdXJ3XCI7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgTGF5b3V0XG4iXX0= */\n/*@ sourceURL=components/layout.js */"
+    css: "body{font-family:\"franklin-gothic-urw\";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvbGF5b3V0LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWV1QixBQUcyQyxrQ0FDcEMiLCJmaWxlIjoiY29tcG9uZW50cy9sYXlvdXQuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2dpbGJlcnRraW5nL3NyYy9oaWxsbWFuX2ZyaWRheS9oaWxsbWFuLWZyaWRheXMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgVHlwZWtpdCBmcm9tICdyZWFjdC10eXBla2l0JztcblxuY29uc3QgTGF5b3V0ID0gKHtjaGlsZHJlbn0pID0+IChcbiAgPGRpdj5cbiAgICA8SGVhZD5cbiAgICAgIDx0aXRsZT57J1dvcmtmbG93IFdlZG5lc2RheXMnfTwvdGl0bGU+XG4gICAgICA8bWV0YSBjaGFyU2V0PSd1dGYtOCcgLz5cbiAgICAgIDxsaW5rIHJlbD1cInN0eWxlc2hlZXRcIiBocmVmPVwiaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvYnVsbWEvMC40LjMvY3NzL2J1bG1hLmNzc1wiIC8+XG4gICAgICA8bGluayByZWw9XCJzdHlsZXNoZWV0XCIgaHJlZj1cImh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vZm9udC1hd2Vzb21lLzQuNy4wL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzc1wiIC8+XG4gICAgICA8c2NyaXB0IHNyYz1cImh0dHBzOi8vbWFwcy5nb29nbGVhcGlzLmNvbS9tYXBzL2FwaS9qcz9rZXk9QUl6YVN5Q0dVRzg4WVZpTTJoX3JNcUEyWVdEaGl0cDdHb29YUTdnXCI+PC9zY3JpcHQ+XG4gICAgICA8VHlwZWtpdCBraXRJZD1cImd6Yzd4aXlcIiAvPlxuICAgICAgPG1ldGEgbmFtZT0ndmlld3BvcnQnIGNvbnRlbnQ9J2luaXRpYWwtc2NhbGU9MS4wLCB3aWR0aD1kZXZpY2Utd2lkdGgnIC8+XG4gICAgPC9IZWFkPlxuICAgIHsgY2hpbGRyZW4gfVxuICAgIDxzdHlsZSBnbG9iYWwganN4PntgXG4gICAgICBib2R5IHtcbiAgICAgICAgZm9udC1mYW1pbHk6IFwiZnJhbmtsaW4tZ290aGljLXVyd1wiO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9kaXY+XG4pXG5cbmV4cG9ydCBkZWZhdWx0IExheW91dFxuIl19 */\n/*@ sourceURL=components/layout.js */"
   }));
 };
 
@@ -388,7 +388,7 @@ var Layout = function Layout(_ref) {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react_google_maps__ = __webpack_require__("./node_modules/react-google-maps/lib/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react_google_maps___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react_google_maps__);
@@ -509,19 +509,20 @@ var Location = function Location() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/navbar.js";
 
 
-var Navbar = function Navbar() {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("nav", {
+var Navbar = function Navbar(props) {
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "navbar",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    className: "navbar-menu",
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("nav", {
+    className: "navbar",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
@@ -583,53 +584,53 @@ var Navbar = function Navbar() {
       fileName: _jsxFileName,
       lineNumber: 13
     }
-  }, "Twitter"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+  }, "Twitter")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     className: "navbar-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 15
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     className: "field is-grouped",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 16
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
     className: "control",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 17
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     className: "button is-white",
     href: "#signup",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 18
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 21
     }
   }, "Sign Up"))))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     className: "navbar-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 26
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     className: "field is-grouped",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
     className: "control",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     id: "twitter",
@@ -641,13 +642,13 @@ var Navbar = function Navbar() {
     href: "https://twitter.com/intent/tweet?text=#HillmanFridays",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 29
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
     className: "icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 36
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
     className: "fa fa-twitter",
@@ -658,15 +659,9 @@ var Navbar = function Navbar() {
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 37
     }
-  }, "Tweet"))))))), ")")(__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("style", {
-    jsx: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 48
-    }
-  }, "\n.elevator {\n        text-align: center;\n      }\n      #twitter {\n          color: #55acee;\n          border-color: #55acee;\n      }\n#twitter:hover {\n          background: #55acee;\n          border-color: #55acee;\n          color: white;\n      }\n.navbar {\n        { background-color: #f36d21; }\n      }\n.navbar-item {\n        {/* color: white */;}\n        font-weight: bold;\n      }\nimg {\n        height: 250px;\n        border-radius: 50%}\n  "));
+  }, "Tweet")))))));
 };
 
 /* harmony default export */ __webpack_exports__["a"] = (Navbar);
@@ -679,7 +674,7 @@ var Navbar = function Navbar() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/organizers.js";
 
@@ -696,59 +691,59 @@ var Organizers = function Organizers() {
       fileName: _jsxFileName,
       lineNumber: 2
     },
-    className: "jsx-3306771840" + " " + "section"
+    className: "jsx-2813563257" + " " + "section"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     },
-    className: "jsx-3306771840" + " " + "title is-2"
+    className: "jsx-2813563257" + " " + "title is-2"
   }, "Organizers"), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
-    className: "jsx-3306771840" + " " + "columns"
+    className: "jsx-2813563257" + " " + "columns"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
-    className: "jsx-3306771840" + " " + "column"
+    className: "jsx-2813563257" + " " + "column"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("a", {
     href: "https://twitter.com/bhopp_06",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
-    className: "jsx-3306771840"
+    className: "jsx-2813563257"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("img", {
-    src: "/static/taron.jpg",
+    src: "/static/BHOPP.jpg",
     alt: "",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
-    className: "jsx-3306771840"
+    className: "jsx-2813563257"
   })), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
-    className: "jsx-3306771840" + " " + "title is-5"
+    className: "jsx-2813563257" + " " + "title is-5"
   }, "Brandon Hopper")), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
-    className: "jsx-3306771840" + " " + "column"
+    className: "jsx-2813563257" + " " + "column"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("a", {
     href: "https://twitter.com/_gilbproducing",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
-    className: "jsx-3306771840"
+    className: "jsx-2813563257"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("img", {
     src: "/static/gil.jpg",
     alt: "",
@@ -756,16 +751,16 @@ var Organizers = function Organizers() {
       fileName: _jsxFileName,
       lineNumber: 14
     },
-    className: "jsx-3306771840"
+    className: "jsx-2813563257"
   })), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
-    className: "jsx-3306771840" + " " + "title is-5"
+    className: "jsx-2813563257" + " " + "title is-5"
   }, "Gilbert King"))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
-    styleId: "3306771840",
-    css: ".elevator.jsx-3306771840{text-align:center;}.title.jsx-3306771840{font-weight:bold;}img.jsx-3306771840{height:250px;margin-bottom:10px;border-radius:50%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvb3JnYW5pemVycy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFpQmdCLEFBRzJCLEFBR0QsQUFHSixhQUNLLElBSHBCLENBSEEsY0FPb0Isa0JBQ3BCIiwiZmlsZSI6ImNvbXBvbmVudHMvb3JnYW5pemVycy5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL2hpbGxtYW5fZnJpZGF5L2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IE9yZ2FuaXplcnMgPSAoKSA9PiAoXG4gIDxkaXYgY2xhc3NOYW1lPVwic2VjdGlvblwiIGlkPVwib3JnYW5pemVyc1wiIHN0eWxlPXt7ICdiYWNrZ3JvdW5kQ29sb3InOiAnd2hpdGUnLCAndGV4dEFsaWduJzogJ2NlbnRlcicgfX0+XG4gICAgPGgyIGNsYXNzTmFtZT1cInRpdGxlIGlzLTJcIj5Pcmdhbml6ZXJzPC9oMj5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbnNcIj5cbiAgICAgIHsvKiA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8aW1nIHNyYz1cIi9zdGF0aWMvYW50d29pbmUuanBnXCIgYWx0PVwiXCIgLz5cbiAgICAgICAgPHAgY2xhc3NOYW1lPVwidGl0bGUgaXMtNVwiPkFudHdvaW5lIEZsb3dlcnM8L3A+XG4gICAgICA8L2Rpdj4gKi99XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9iaG9wcF8wNlwiPjxpbWcgc3JjPVwiL3N0YXRpYy90YXJvbi5qcGdcIiBhbHQ9XCJcIiAvPjwvYT5cbiAgICAgICAgPHAgY2xhc3NOYW1lPVwidGl0bGUgaXMtNVwiPkJyYW5kb24gSG9wcGVyPC9wPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9fZ2lsYnByb2R1Y2luZ1wiPjxpbWcgc3JjPVwiL3N0YXRpYy9naWwuanBnXCIgYWx0PVwiXCIgLz48L2E+XG4gICAgICAgIDxwIGNsYXNzTmFtZT1cInRpdGxlIGlzLTVcIj5HaWxiZXJ0IEtpbmc8L3A+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAuZWxldmF0b3Ige1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAudGl0bGUge1xuICAgICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICAgIH1cbiAgICAgIGltZyB7XG4gICAgICAgIGhlaWdodDogMjUwcHg7XG4gICAgICAgIG1hcmdpbi1ib3R0b206MTBweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9kaXY+KVxuXG5leHBvcnQgZGVmYXVsdCBPcmdhbml6ZXJzXG4iXX0= */\n/*@ sourceURL=components/organizers.js */"
+    styleId: "2813563257",
+    css: ".elevator.jsx-2813563257{text-align:center;}.title.jsx-2813563257{font-weight:bold;}img.jsx-2813563257{height:250px;width:250px;margin-bottom:10px;border-radius:50%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvb3JnYW5pemVycy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFpQmdCLEFBRzJCLEFBR0QsQUFHSixhQUNBLElBSGYsQ0FIQSxPQU9vQixtQkFDQSxrQkFDcEIiLCJmaWxlIjoiY29tcG9uZW50cy9vcmdhbml6ZXJzLmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvaGlsbG1hbl9mcmlkYXkvaGlsbG1hbi1mcmlkYXlzIiwic291cmNlc0NvbnRlbnQiOlsiIGNvbnN0IE9yZ2FuaXplcnMgPSAoKSA9PiAoXG4gIDxkaXYgY2xhc3NOYW1lPVwic2VjdGlvblwiIGlkPVwib3JnYW5pemVyc1wiIHN0eWxlPXt7ICdiYWNrZ3JvdW5kQ29sb3InOiAnd2hpdGUnLCAndGV4dEFsaWduJzogJ2NlbnRlcid9fT5cbiAgICA8aDIgY2xhc3NOYW1lPVwidGl0bGUgaXMtMlwiPk9yZ2FuaXplcnM8L2gyPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uc1wiPlxuICAgICAgey8qIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxpbWcgc3JjPVwiL3N0YXRpYy9hbnR3b2luZS5qcGdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICA8cCBjbGFzc05hbWU9XCJ0aXRsZSBpcy01XCI+QW50d29pbmUgRmxvd2VyczwvcD5cbiAgICAgIDwvZGl2PiAqL31cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL2Job3BwXzA2XCI+PGltZyBzcmM9XCIvc3RhdGljL0JIT1BQLmpwZ1wiIGFsdD1cIlwiIC8+PC9hPlxuICAgICAgICA8cCBjbGFzc05hbWU9XCJ0aXRsZSBpcy01XCI+QnJhbmRvbiBIb3BwZXI8L3A+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL19naWxicHJvZHVjaW5nXCI+PGltZyBzcmM9XCIvc3RhdGljL2dpbC5qcGdcIiBhbHQ9XCJcIiAvPjwvYT5cbiAgICAgICAgPHAgY2xhc3NOYW1lPVwidGl0bGUgaXMtNVwiPkdpbGJlcnQgS2luZzwvcD5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC50aXRsZSB7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgfVxuICAgICAgaW1nIHtcbiAgICAgICAgaGVpZ2h0OiAyNTBweDtcbiAgICAgICAgd2lkdGg6ICAyNTBweDtcbiAgICAgICAgbWFyZ2luLWJvdHRvbToxMHB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj4pXG5cbmV4cG9ydCBkZWZhdWx0IE9yZ2FuaXplcnNcbiJdfQ== */\n/*@ sourceURL=components/organizers.js */"
   }));
 };
 
@@ -779,7 +774,7 @@ var Organizers = function Organizers() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/tagline.js";
 
@@ -813,9 +808,9 @@ var TagLine = function TagLine() {
       lineNumber: 5
     },
     className: "jsx-1855462676" + " " + "title is-4"
-  }, "Every 2nd and 4th Wednesday, at 7:00pm, work with us."))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
+  }, "Every 2nd and 4th Wednesday, at 7pm, work with us."))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
     styleId: "1855462676",
-    css: ".elevator.jsx-1855462676{text-align:center;color:white;}.title.jsx-1855462676{color:white;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvdGFnbGluZS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFPZ0IsQUFHMkIsQUFJUixZQUNLLE1BSkgsV0FLZCxDQUpBIiwiZmlsZSI6ImNvbXBvbmVudHMvdGFnbGluZS5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL2hpbGxtYW5fZnJpZGF5L2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFRhZ0xpbmUgPSAoKSA9PiAoXG4gIDxkaXYgc3R5bGU9e3sgJ2JhY2tncm91bmRDb2xvcic6ICcjMjgyODI4JyB9fSBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJlbGV2YXRvciBjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbiBpcy02IGlzLW9mZnNldC0zXCI+XG4gICAgICAgIDxoMyBjbGFzc05hbWU9XCJ0aXRsZSBpcy00XCI+RXZlcnkgMm5kIGFuZCA0dGggV2VkbmVzZGF5LCBhdCA3OjAwcG0sIHdvcmsgd2l0aCB1cy48L2gzPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLmVsZXZhdG9yIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICB9XG4gICAgICAudGl0bGUge1xuICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgVGFnTGluZVxuIl19 */\n/*@ sourceURL=components/tagline.js */"
+    css: ".elevator.jsx-1855462676{text-align:center;color:white;}.title.jsx-1855462676{color:white;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvdGFnbGluZS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFPZ0IsQUFHMkIsQUFJUixZQUNLLE1BSkgsV0FLZCxDQUpBIiwiZmlsZSI6ImNvbXBvbmVudHMvdGFnbGluZS5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL2hpbGxtYW5fZnJpZGF5L2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFRhZ0xpbmUgPSAoKSA9PiAoXG4gIDxkaXYgc3R5bGU9e3sgJ2JhY2tncm91bmRDb2xvcic6ICcjMjgyODI4JyB9fSBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJlbGV2YXRvciBjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbiBpcy02IGlzLW9mZnNldC0zXCI+XG4gICAgICAgIDxoMyBjbGFzc05hbWU9XCJ0aXRsZSBpcy00XCI+RXZlcnkgMm5kIGFuZCA0dGggV2VkbmVzZGF5LCBhdCA3cG0sIHdvcmsgd2l0aCB1cy48L2gzPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLmVsZXZhdG9yIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICB9XG4gICAgICAudGl0bGUge1xuICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgVGFnTGluZVxuIl19 */\n/*@ sourceURL=components/tagline.js */"
   }));
 };
 
@@ -827,7 +822,7 @@ var TagLine = function TagLine() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__("./node_modules/next/node_modules/prop-types/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
@@ -948,7 +943,7 @@ TweetEmbed.defaultProps = {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__tweet_embed__ = __webpack_require__("./components/tweet-embed.js");
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/twitter.js";
@@ -1019,7 +1014,7 @@ var Twitter = function Twitter() {
     }
   }))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
     styleId: "3852583590",
-    css: ".elevator.jsx-3852583590{text-align:center;color:white;}.title.jsx-3852583590{color:white;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvdHdpdHRlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFrQmdCLEFBRzJCLEFBS3JCLFlBQUMsTUFKYyxZQUNkIiwiZmlsZSI6ImNvbXBvbmVudHMvdHdpdHRlci5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL2hpbGxtYW5fZnJpZGF5L2hpbGxtYW4tZnJpZGF5cyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBUd2VldEVtYmVkIGZyb20gJy4vdHdlZXQtZW1iZWQnO1xuXG5jb25zdCBUd2l0dGVyID0gKCkgPT4gKFxuICA8ZGl2IHN0eWxlPXt7ICdiYWNrZ3JvdW5kQ29sb3InOiAnd2hpdGUnIH19IGNsYXNzTmFtZT1cInNlY3Rpb25cIj5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbnNcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxUd2VldEVtYmVkIGlkPXtcIjg5MDczNDY4ODEzODE0MTY5N1wifSBvcHRpb25zPXt7IGNhcmRzOiAnaGlkZGVuJyB9fSAvPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8VHdlZXRFbWJlZCBpZD17XCI4ODM1MDc2OTYyNzk5Njk3OTJcIn0gb3B0aW9ucz17eyBjYXJkczogJ2hpZGRlbicgfX0gLz5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgICAgPFR3ZWV0RW1iZWQgaWQ9e1wiODkwNzMzNzUwNzQ0Njk4ODgwXCJ9IG9wdGlvbnM9e3sgY2FyZHM6ICdoaWRkZW4nIH19IC8+XG4gICAgICA8L2Rpdj5cbiAgICAgIHsvKiA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8VHdlZXRFbWJlZCBpZD17XCI4OTA3NDU4NTY2MDA4MDk0NzdcIn0gb3B0aW9ucz17eyBjYXJkczogJ2hpZGRlbicgfX0gLz5cbiAgICAgIDwvZGl2PiAqL31cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAuZWxldmF0b3Ige1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgIH1cbiAgICAgIC50aXRsZSB7XG4gICAgICAgIGNvbG9yOiB3aGl0ZVxuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9kaXY+XG4pXG5cbmV4cG9ydCBkZWZhdWx0IFR3aXR0ZXJcbiJdfQ== */\n/*@ sourceURL=components/twitter.js */"
+    css: ".elevator.jsx-3852583590{text-align:center;color:white;}.title.jsx-3852583590{color:white;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvdHdpdHRlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFrQmdCLEFBa0IyQixBQUtyQixZQUFDLE1BSmMsWUFDZCIsImZpbGUiOiJjb21wb25lbnRzL3R3aXR0ZXIuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2dpbGJlcnRraW5nL3NyYy9oaWxsbWFuX2ZyaWRheS9oaWxsbWFuLWZyaWRheXMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgVHdlZXRFbWJlZCBmcm9tICcuL3R3ZWV0LWVtYmVkJztcblxuY29uc3QgVHdpdHRlciA9ICgpID0+IChcbiAgPGRpdiBzdHlsZT17eyAnYmFja2dyb3VuZENvbG9yJzogJ3doaXRlJyB9fSBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8VHdlZXRFbWJlZCBpZD17XCI4OTA3MzQ2ODgxMzgxNDE2OTdcIn0gb3B0aW9ucz17eyBjYXJkczogJ2hpZGRlbicgfX0gLz5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgICAgPFR3ZWV0RW1iZWQgaWQ9e1wiODgzNTA3Njk2Mjc5OTY5NzkyXCJ9IG9wdGlvbnM9e3sgY2FyZHM6ICdoaWRkZW4nIH19IC8+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxUd2VldEVtYmVkIGlkPXtcIjg5MDczMzc1MDc0NDY5ODg4MFwifSBvcHRpb25zPXt7IGNhcmRzOiAnaGlkZGVuJyB9fSAvPlxuICAgICAgPC9kaXY+XG4gICAgICB7LyogPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgICAgPFR3ZWV0RW1iZWQgaWQ9e1wiODkwNzQ1ODU2NjAwODA5NDc3XCJ9IG9wdGlvbnM9e3sgY2FyZHM6ICdoaWRkZW4nIH19IC8+XG4gICAgICA8L2Rpdj4gKi99XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLmVsZXZhdG9yIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICB9XG4gICAgICAudGl0bGUge1xuICAgICAgICBjb2xvcjogd2hpdGVcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBUd2l0dGVyXG4iXX0= */\n/*@ sourceURL=components/twitter.js */"
   }));
 };
 
@@ -1033,7 +1028,7 @@ var Twitter = function Twitter() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__ = __webpack_require__("./node_modules/styled-jsx/style.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/components/what-to-expect.js";
 
@@ -1048,6 +1043,9 @@ var WhatToExpect = function WhatToExpect() {
     className: "jsx-4235853645"
   }, __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div", {
     id: "what-to-expect",
+    style: {
+      'textAlign': 'center'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -1145,7 +1143,7 @@ var WhatToExpect = function WhatToExpect() {
     className: "jsx-4235853645"
   }, "There is no commitment necessary, Wednesdays should flow, and that\u2019s just how it goes. We are located in Over The Rhine, in close proximity to popular local bars and night clubs. OTR provides great nightlife scenery and is a short drive from Covington where there are also local breweries and bars.  "))), __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_styled_jsx_style___default.a, {
     styleId: "4235853645",
-    css: "#what-to-expect.jsx-4235853645{text-align:center;background-color:white;}.elevator.jsx-4235853645{text-align:center;}.title.jsx-4235853645{font-weight:bold;text-align:center;}.img.jsx-4235853645{height:250px;border-radius:50%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvd2hhdC10by1leHBlY3QuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMkJnQixBQUcyQixBQUlBLEFBR0QsQUFJSixhQUNLLElBSkEsQ0FQSyxBQUl6QixhQVFBLElBSkEsTUFQQSIsImZpbGUiOiJjb21wb25lbnRzL3doYXQtdG8tZXhwZWN0LmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvaGlsbG1hbl9mcmlkYXkvaGlsbG1hbi1mcmlkYXlzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgV2hhdFRvRXhwZWN0ID0gKCkgPT4gKFxuICA8ZGl2PlxuICA8ZGl2IGlkPVwid2hhdC10by1leHBlY3RcIiBjbGFzc05hbWU9XCJzZWN0aW9uXCI+XG4gICAgPGgxIGNsYXNzTmFtZT1cInRpdGxlIGlzLTJcIj5XaGF0IFRvIEV4cGVjdDwvaDE+XG4gICAgPC9kaXY+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbiBcIj5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5Db2xsYWJvcmF0ZTwvaDM+XG4gICAgICAgIDxwPkNvbm5lY3Qgd2l0aCBvdGhlciBhbWJpdGlvdXMgaW5kaXZpZHVhbHMgaW4gYSB2YXJpZXR5IG9mIGRpZmZlcmVudCBmaWVsZHMuIEdhaW4gYWNjZXNzIHRvIG90aGVyIHBlcnNwZWN0aXZlcyBhbmQgYnJhaW5zdG9ybSBmb3IgeW91ciBwYXNzaW9uIHByb2plY3RzLiA5LzEwIHRoZXJlIGlzIHNvbWVvbmUgYXZhaWxhYmxlIHdobyBoYXMgaGFkIHNvbWUgc2tpbiBpbiB0aGUgZmllbGQsIG5vIGNvc3QgdG8geW91LlxuICAgICAgICA8L3A+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxoMyBjbGFzc05hbWU9XCJ0aXRsZSBpcy0zXCI+Q3JlYXRlPC9oMz5cbiAgICAgICAgPHA+SXTigJlzIGhhcmQgdG8gbWFrZSB0aW1lIGZvciB5b3VyIHByb2plY3RzIGFuZCBldmVuIHlvdXJzZWxmLiBHZXQgdGhlIGNoYW5jZSB0byBhdHRlbmQgZnJlZSBsaXZlIGNsYXNzZXMgZm9yIHZhcmlvdXMgdG9waWNzLCBkaXNjdXNzIGRyZWFtcywgb3IgZXZlbiB0b3NzIGFyb3VuZCBpZGVhc1xuICAgICAgICAgIDwvcD5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uc1wiPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5QaXp6YSBBbmQgQmVlcjwvaDM+XG4gICAgICAgIDxwPkhleSwgSXTigJlzIEh1bXAgRGF5LCB3ZeKAmXJlIGhlcmUgdG8gcmVsYXgsIHZpYmUsIGFuZCBldmVuIGdldCB3b3JrIGRvbmUuIFdoYXTigJlzIGEgbWlkLXdlZWsgbWVldC11cCB3aXRob3V0IGEgY29sZCBicmV3IGFuZCBub3QgaGF2aW5nIHRvIHdvcnJ5IGFib3V0IGRpbm5lciBwbGFucy4gUGxhaW4gYW5kIHNpbXBsZSEgPC9wPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtM1wiPk9uIFlvdXIgVGltZTwvaDM+XG4gICAgICAgIDxwPlRoZXJlIGlzIG5vIGNvbW1pdG1lbnQgbmVjZXNzYXJ5LCBXZWRuZXNkYXlzIHNob3VsZCBmbG93LCBhbmQgdGhhdOKAmXMganVzdCBob3cgaXQgZ29lcy4gV2UgYXJlIGxvY2F0ZWQgaW4gT3ZlciBUaGUgUmhpbmUsIGluIGNsb3NlIHByb3hpbWl0eSB0byBwb3B1bGFyIGxvY2FsIGJhcnMgYW5kIG5pZ2h0IGNsdWJzLiBPVFIgcHJvdmlkZXMgZ3JlYXQgbmlnaHRsaWZlIHNjZW5lcnkgYW5kIGlzIGEgc2hvcnQgZHJpdmUgZnJvbSBDb3Zpbmd0b24gd2hlcmUgdGhlcmUgYXJlIGFsc28gbG9jYWwgYnJld2VyaWVzIGFuZCBiYXJzLiAgPC9wPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgI3doYXQtdG8tZXhwZWN0IHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICAgIH1cbiAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC50aXRsZSB7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAuaW1nIHtcbiAgICAgICAgaGVpZ2h0OiAyNTBweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbjwvZGl2PiAgICBcbilcblxuZXhwb3J0IGRlZmF1bHQgV2hhdFRvRXhwZWN0XG4iXX0= */\n/*@ sourceURL=components/what-to-expect.js */"
+    css: "#what-to-expect.jsx-4235853645{text-align:center;background-color:white;}.elevator.jsx-4235853645{text-align:center;}.title.jsx-4235853645{font-weight:bold;text-align:center;}.img.jsx-4235853645{height:250px;border-radius:50%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvd2hhdC10by1leHBlY3QuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMkJnQixBQUcyQixBQUlBLEFBR0QsQUFJSixhQUNLLElBSkEsQ0FQSyxBQUl6QixhQVFBLElBSkEsTUFQQSIsImZpbGUiOiJjb21wb25lbnRzL3doYXQtdG8tZXhwZWN0LmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvaGlsbG1hbl9mcmlkYXkvaGlsbG1hbi1mcmlkYXlzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgV2hhdFRvRXhwZWN0ID0gKCkgPT4gKFxuICA8ZGl2PlxuICA8ZGl2IGlkPVwid2hhdC10by1leHBlY3RcIiBjbGFzc05hbWU9XCJzZWN0aW9uXCIgc3R5bGU9e3sndGV4dEFsaWduJzogJ2NlbnRlcid9fT5cbiAgICA8aDEgY2xhc3NOYW1lPVwidGl0bGUgaXMtMlwiPldoYXQgVG8gRXhwZWN0PC9oMT5cbiAgICA8L2Rpdj5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtbnNcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uIFwiPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtM1wiPkNvbGxhYm9yYXRlPC9oMz5cbiAgICAgICAgPHA+Q29ubmVjdCB3aXRoIG90aGVyIGFtYml0aW91cyBpbmRpdmlkdWFscyBpbiBhIHZhcmlldHkgb2YgZGlmZmVyZW50IGZpZWxkcy4gR2FpbiBhY2Nlc3MgdG8gb3RoZXIgcGVyc3BlY3RpdmVzIGFuZCBicmFpbnN0b3JtIGZvciB5b3VyIHBhc3Npb24gcHJvamVjdHMuIDkvMTAgdGhlcmUgaXMgc29tZW9uZSBhdmFpbGFibGUgd2hvIGhhcyBoYWQgc29tZSBza2luIGluIHRoZSBmaWVsZCwgbm8gY29zdCB0byB5b3UuXG4gICAgICAgIDwvcD5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5DcmVhdGU8L2gzPlxuICAgICAgICA8cD5JdOKAmXMgaGFyZCB0byBtYWtlIHRpbWUgZm9yIHlvdXIgcHJvamVjdHMgYW5kIGV2ZW4geW91cnNlbGYuIEdldCB0aGUgY2hhbmNlIHRvIGF0dGVuZCBmcmVlIGxpdmUgY2xhc3NlcyBmb3IgdmFyaW91cyB0b3BpY3MsIGRpc2N1c3MgZHJlYW1zLCBvciBldmVuIHRvc3MgYXJvdW5kIGlkZWFzXG4gICAgICAgICAgPC9wPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5zXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtM1wiPlBpenphIEFuZCBCZWVyPC9oMz5cbiAgICAgICAgPHA+SGV5LCBJdOKAmXMgSHVtcCBEYXksIHdl4oCZcmUgaGVyZSB0byByZWxheCwgdmliZSwgYW5kIGV2ZW4gZ2V0IHdvcmsgZG9uZS4gV2hhdOKAmXMgYSBtaWQtd2VlayBtZWV0LXVwIHdpdGhvdXQgYSBjb2xkIGJyZXcgYW5kIG5vdCBoYXZpbmcgdG8gd29ycnkgYWJvdXQgZGlubmVyIHBsYW5zLiBQbGFpbiBhbmQgc2ltcGxlISA8L3A+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uXCI+XG4gICAgICAgIDxoMyBjbGFzc05hbWU9XCJ0aXRsZSBpcy0zXCI+T24gWW91ciBUaW1lPC9oMz5cbiAgICAgICAgPHA+VGhlcmUgaXMgbm8gY29tbWl0bWVudCBuZWNlc3NhcnksIFdlZG5lc2RheXMgc2hvdWxkIGZsb3csIGFuZCB0aGF04oCZcyBqdXN0IGhvdyBpdCBnb2VzLiBXZSBhcmUgbG9jYXRlZCBpbiBPdmVyIFRoZSBSaGluZSwgaW4gY2xvc2UgcHJveGltaXR5IHRvIHBvcHVsYXIgbG9jYWwgYmFycyBhbmQgbmlnaHQgY2x1YnMuIE9UUiBwcm92aWRlcyBncmVhdCBuaWdodGxpZmUgc2NlbmVyeSBhbmQgaXMgYSBzaG9ydCBkcml2ZSBmcm9tIENvdmluZ3RvbiB3aGVyZSB0aGVyZSBhcmUgYWxzbyBsb2NhbCBicmV3ZXJpZXMgYW5kIGJhcnMuICA8L3A+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAjd2hhdC10by1leHBlY3Qge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgICAgfVxuICAgICAgLmVsZXZhdG9yIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgfVxuICAgICAgLnRpdGxlIHtcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5pbWcge1xuICAgICAgICBoZWlnaHQ6IDI1MHB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuPC9kaXY+ICAgIFxuKVxuXG5leHBvcnQgZGVmYXVsdCBXaGF0VG9FeHBlY3RcbiJdfQ== */\n/*@ sourceURL=components/what-to-expect.js */"
   }));
 };
 
@@ -26305,7 +26303,7 @@ var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__("./node
 
 var _url = __webpack_require__("./node_modules/url/url.js");
 
-var _react = _interopRequireWildcard(__webpack_require__("./node_modules/react/react.js"));
+var _react = _interopRequireWildcard(__webpack_require__("./node_modules/react/index.js"));
 
 var _propTypes = _interopRequireDefault(__webpack_require__("./node_modules/next/node_modules/prop-types/index.js"));
 
@@ -26967,7 +26965,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -27123,7 +27121,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -27506,7 +27504,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -27760,7 +27758,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -27947,7 +27945,7 @@ var _invariant = __webpack_require__("./node_modules/invariant/browser.js")
 
 var _invariant2 = _interopRequireDefault(_invariant)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -28531,7 +28529,7 @@ var _warning = __webpack_require__("./node_modules/warning/browser.js")
 
 var _warning2 = _interopRequireDefault(_warning)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -28793,7 +28791,7 @@ var _canUseDom = __webpack_require__("./node_modules/can-use-dom/index.js")
 
 var _canUseDom2 = _interopRequireDefault(_canUseDom)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -29114,7 +29112,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -29398,7 +29396,7 @@ var _Marker$contextTypes /*
                            */
 /* global google */
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -30077,7 +30075,7 @@ var _invariant = __webpack_require__("./node_modules/invariant/browser.js")
 
 var _invariant2 = _interopRequireDefault(_invariant)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -30364,7 +30362,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -30723,7 +30721,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -31061,7 +31059,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -31409,7 +31407,7 @@ var _invariant = __webpack_require__("./node_modules/invariant/browser.js")
 
 var _invariant2 = _interopRequireDefault(_invariant)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -31852,7 +31850,7 @@ var _inherits2 = __webpack_require__("./node_modules/babel-runtime/helpers/inher
 
 var _inherits3 = _interopRequireDefault(_inherits2)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -32551,7 +32549,7 @@ var _propTypes = __webpack_require__("./node_modules/next/node_modules/prop-type
 
 var _propTypes2 = _interopRequireDefault(_propTypes)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -32760,7 +32758,7 @@ var _propTypes = __webpack_require__("./node_modules/next/node_modules/prop-type
 
 var _propTypes2 = _interopRequireDefault(_propTypes)
 
-var _react = __webpack_require__("./node_modules/react/react.js")
+var _react = __webpack_require__("./node_modules/react/index.js")
 
 var _react2 = _interopRequireDefault(_react)
 
@@ -32926,7 +32924,7 @@ var _propTypes = __webpack_require__("./node_modules/next/node_modules/prop-type
 
 var _propTypes2 = _interopRequireDefault(_propTypes);
 
-var _react = __webpack_require__("./node_modules/react/react.js");
+var _react = __webpack_require__("./node_modules/react/index.js");
 
 var _react2 = _interopRequireDefault(_react);
 
@@ -33054,7 +33052,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createEventHandler", function() { return createEventHandler; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createEventHandlerWithConfig", function() { return createEventHandlerWithConfig; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "setObservableConfig", function() { return configureObservable; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/react.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_fbjs_lib_shallowEqual__ = __webpack_require__("./node_modules/fbjs/lib/shallowEqual.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_fbjs_lib_shallowEqual___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_fbjs_lib_shallowEqual__);
@@ -34572,7 +34570,7 @@ var _inherits3 = _interopRequireDefault(_inherits2);
 
 exports.flush = flush;
 
-var _react = __webpack_require__("./node_modules/react/react.js");
+var _react = __webpack_require__("./node_modules/react/index.js");
 
 var _stylesheetRegistry = __webpack_require__("./node_modules/styled-jsx/dist/stylesheet-registry.js");
 
@@ -35086,7 +35084,7 @@ module.exports = function(originalModule) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/react.js");
+/* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_layout__ = __webpack_require__("./components/layout.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_header__ = __webpack_require__("./components/header.js");
@@ -35107,8 +35105,10 @@ var _jsxFileName = "/Users/gilbertking/src/hillman_friday/hillman-fridays/pages/
 
 
 
- // import Agenda from '../components/agenda'
 
+{
+  /* import Agenda from '../components/agenda'*/
+}
 
 
 

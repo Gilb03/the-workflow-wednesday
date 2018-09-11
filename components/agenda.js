@@ -27,4 +27,4 @@ const Agenda = () => (
   </div>
 )
 
-export default Agenda
+// export default Agenda
