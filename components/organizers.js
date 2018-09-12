@@ -7,7 +7,7 @@
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/bhopp_06"><img src="/static/BHOPP.jpg" alt="" /></a>
+        <a href="https://twitter.com/bhopp_06"><img src="/static/bhopp.jpg" alt="" /></a>
         <p className="title is-5">Brandon Hopper</p>
       </div>
       <div className="column">

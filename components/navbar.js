@@ -40,6 +40,7 @@ const Navbar = (props) => (
         </div>
       </div>
   </nav>
+
   {/* <style jsx>{`
         {
             .elevator {
