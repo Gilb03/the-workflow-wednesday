@@ -7,6 +7,7 @@ const Layout = ({children}) => (
       <title>{'Workflow Wednesdays'}</title>
       <meta charSet='utf-8' />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.3/css/bulma.css" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.32.4/react-bootstrap.min.js"/>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGUG88YViM2h_rMqA2YWDhitp7GooXQ7g"></script>
       <Typekit kitId="gzc7xiy" />
