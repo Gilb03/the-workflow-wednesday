@@ -3,6 +3,7 @@ import Header from '../components/header'
 import SubmitForm from '../components/form'
 import Organizers from '../components/organizers'
 import Location from '../components/location'
+import LocationChi from '../components/location-chi'
 import WhatToExpect from '../components/what-to-expect'
 {/* import Agenda from '../components/agenda'*/}
 import Description from '../components/description'
@@ -24,6 +25,7 @@ export default () => (
     <WhatToExpect />
     {/* <Agenda /> */}
     <Location />
+    <LocationChi />
     <Organizers />
     <Footer />
   </Layout>

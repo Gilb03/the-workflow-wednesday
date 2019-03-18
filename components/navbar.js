@@ -1,7 +1,7 @@
 const Navbar = (props) => (
       
   <div className= "navbar"> 
-    <nav className ="navbar">
+    <nav className ="navbar-menu">
       <div className="navbar-start">
         <a className="navbar-item" href="#what-to-expect">What To Expect</a>
         <a className="navbar-item" href="#location">Location</a>
@@ -9,7 +9,7 @@ const Navbar = (props) => (
       </div>
       <div className="navbar-end">
         <a className="navbar-item" href="https://www.instagram.com/hill7org/" target="_blank">Instagram</a>
-       {/*<a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>*/}
+       {<a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>}
         {/*<a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">Twitter</a> // grouped */}
       </div>
       <div className="navbar-item">
@@ -26,7 +26,7 @@ const Navbar = (props) => (
       <div className="navbar-item">
         <div className="field is-grouped">
           <p className="control">
-           {/* <a id="twitter"
+           { <a id="twitter"
                 className="button is-white"
                 data-social-network="Twitter"
                 data-social-action="tweet"
@@ -35,13 +35,13 @@ const Navbar = (props) => (
                 href="https://twitter.com/intent/tweet?text=#HillmanFridays">
                 <span className="icon"><i className="fa fa-twitter"></i></span>
                 <span>Tweet</span>
-</a>*/}
+</a>}
           </p>
         </div>
       </div>
   </nav>
 
-  {/* <style jsx>{`
+  { <style jsx="true">{`
         {
             .elevator {
               text-align: center;
@@ -59,15 +59,15 @@ const Navbar = (props) => (
               { background-color: #f36d21; }
             }
             .navbar-item {
-              {/* color: white
+              { color: white;
               font-weight: bold;
             }
             img {
               height: 250px;
-              border-radius: 50%
+              border-radius: 50%;
             }
         }
-      `}</style> */}
+      `}</style> }
      </div> 
 )
 

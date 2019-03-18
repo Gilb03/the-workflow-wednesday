@@ -7,8 +7,8 @@
         <p className="title is-5">Antwoine Flowers</p>
       </div> */}
       <div className="column">
-        <a href="https://twitter.com/bhopp_06"><img src="/static/bhopp.jpg" alt="" /></a>
-        <p className="title is-5">Brandon Hopper</p>
+        <a href="https://twitter.com/typical_nana"><img src="/static/Nana.jpg" alt="" /></a>
+        <p className="title is-5">Nana Abeeku</p>
       </div>
       <div className="column">
         <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a>
