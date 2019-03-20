@@ -22,7 +22,7 @@ const WhatToExpect = () => (
       </div>
       <div className="column">
         <h3 className="title is-3">On Your Time</h3>
-        <p>There is no commitment necessary, Wednesdays should flow, and that’s just how it goes. We are located in Over The Rhine, in close proximity to popular local bars and night clubs. OTR provides great nightlife scenery and is a short drive from Covington where there are also local breweries and bars.  </p>
+        <p>There is no commitment necessary, Hump Days should flow, and that’s just how it goes. We are located in Over The Rhine and Logan Square, in close proximity to many popular local bars and night clubs. Both cities provide great restaurants, nightlife, and scenery. Plus there's a short drive from wherever you may be traveling.  </p>
       </div>
     </div>
     <style jsx>{`

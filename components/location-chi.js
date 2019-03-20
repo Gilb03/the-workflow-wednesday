@@ -29,7 +29,7 @@ const LocationChi = () => (
       <div className="column">
         <div className="block">
           <h4>Second Shift Co-Working</h4>
-          <h4><a href="https://www.facebook.com/">Chicago Registration goes here</a></h4>
+          <h4><a class="btn btn-primary" href="https://bit.ly/2OdB3ji" target="_blank">Chicago Registration</a></h4>
           <a target="_blank" style={{ "marginRight":"spacing + 'em'","color": "black" }} href="https://goo.gl/maps/i8fhL65pXC22">3432 W Diversey Ave., Chicago, IL 60647</a>
           <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ7eQqc3TND4gRAOH4kESIeYs&key=AIzaSyAwzu9UHFXD_TG3k6u8VZUxyEEatg-AvBw" width="600" height="450" frameBorder="0" style={{ border: 0 }} allowFullScreen></iframe>
         </div>
