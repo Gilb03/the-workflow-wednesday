@@ -34,10 +34,13 @@ app.prepare()
       return handle(req, res)
     })
 
-    server.listen(8000, (err) => {
+   /*server.listen(3000, (err) => {
       if (err) throw err
-      console.log('> Ready on http://localhost:8000')
-    })
+      console.log('> Ready on http://localhost:3000')
+    })*/
+    
+
+server.listen(process.env.PORT || 3000);
   })
   .catch((ex) => {
     console.error(ex.stack)
