@@ -3,12 +3,12 @@ const SubmitForm = () => (
     <div className="columns is-mobile">
       <div className="column is-half is-offset-one-quarter">
         <h3 className="title is-3 label">Stay Connected</h3>
-        <form style={{ 'padding': '3px', 'textAlign': 'center' }} action="https://tinyletter.com/hillman-friday" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/hillman-friday', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <form style={{ 'padding': '3px', 'textAlign': 'center' }} action="https://tinyletter.com/workflow-wednesday" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/workflow-wednesday', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
           <div className="field is-grouped">
             <div className="control is-expanded">
               <input className="input" type="email" name="email" id="tlemail" placeholder="Your email here" />
               <input type="hidden" value="1" name="embed" />
-            </div>
+            </div> 
             <div className="control">
               <button className="button is-white">Submit</button>
             </div>
