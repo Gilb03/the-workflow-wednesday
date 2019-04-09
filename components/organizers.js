@@ -2,10 +2,10 @@
   <div className="section" id="organizers" style={{ 'backgroundColor': 'white', 'textAlign': 'center'}}>
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
-      {/* <div className="column">
-        <img src="/static/antwoine.jpg" alt="" />
-        <p className="title is-5">Antwoine Flowers</p>
-      </div> */}
+     <div className="column">
+        <a href="https://twitter.com/Queeeeel__"><img src="/static/raquel.jpg" alt="" /></a>
+        <p className="title is-5">Raquel Robinson</p>
+      </div>
       <div className="column">
         <a href="https://twitter.com/typical_nana"><img src="/static/Nana.jpg" alt="" /></a>
         <p className="title is-5">Nana Thompson</p>
