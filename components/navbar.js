@@ -1,6 +1,6 @@
 const Navbar = (props) => (
-      
-  <div className= "navbar"> 
+
+  <div className= "navbar">
     <nav className ="navbar-menu">
       <div className="navbar-start">
         <a className="navbar-item" href="#what-to-expect">What To Expect</a>
@@ -10,7 +10,7 @@ const Navbar = (props) => (
       <div className="navbar-end">
         <a className="navbar-item" href="https://www.instagram.com/hill7org/" target="_blank">Instagram</a>
        {<a className="navbar-item" href="https://www.facebook.com/hill7org/" target="_blank">Facebook</a>}
-{<a className="navbar-item" href="https://twitter.com/jgthms" target="_blank">Twitter</a> /* grouped */}
+{<a className="navbar-item" href="https://twitter.com/hill7org" target="_blank">Twitter</a> /* grouped */}
       </div>
       <div className="navbar-item">
         <div className="field is-separated">
@@ -68,7 +68,7 @@ const Navbar = (props) => (
             }
         }
       `}</style> }
-     </div> 
+     </div>
 )
 
 export default Navbar

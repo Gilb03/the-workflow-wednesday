@@ -7,12 +7,12 @@
         <p className="title is-5">Raquel Robinson</p>
       </div>
       <div className="column">
-        <a href="https://twitter.com/typical_nana"><img src="/static/Nana.jpg" alt="" /></a>
-        <p className="title is-5">Nana Thompson</p>
+        <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a> 
+        <p className="title is-5">Gilbert King</p>
       </div>
       <div className="column">
-        <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a>
-        <p className="title is-5">Gilbert King</p>
+        <a href="https://www.linkedin.com/in/cyrinathomas/"><img src="/static/Cyrina.jpg" alt="" /></a> 
+        <p className="title is-5">Cyrina Thomas</p> 
       </div>
     </div>
     <style jsx>{`
