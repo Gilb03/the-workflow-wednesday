@@ -11,18 +11,19 @@ const WhatToExpect = () => (
       </div>
       <div className="column">
         <h3 className="title is-3">Create</h3>
-        <p>It’s hard to make time for your projects and even yourself. Get the chance to attend free live classes for various topics, discuss dreams, or even toss around ideas
+        <p>It’s hard to make time for your projects and even yourself. Get the chance to attend free live classes and workshops for various topics, discuss dreams, or even toss around ideas. 
           </p>
       </div>
     </div>
     <div className="columns">
-      <div className="column">
-        <h3 className="title is-3">Pizza And Beer</h3>
-        <p>Hey, It’s Hump Day, we’re here to relax, vibe, and even get work done. What’s a mid-week meet-up without a cold brew and not having to worry about dinner plans. Plain and simple! </p>
-      </div>
+     <div className="column">
+        <h3 className="title is-3">Build Community</h3>
+        <p>Hey, we’re all here to grow our networks, relax, vibe and get productive. We will be having weekly discussions centered around growing comfortability 
+          in expressing our ideas and becoming tighter knit in the process. Plain and simple! </p>
+     </div>
       <div className="column">
         <h3 className="title is-3">On Your Time</h3>
-        <p>There is no commitment necessary, Hump Days should flow, and that’s just how it goes. We are located in Over The Rhine and Logan Square, in close proximity to many popular local bars and night clubs. Both cities provide great restaurants, nightlife, and scenery. Plus there's a short drive from wherever you may be traveling.  </p>
+        <p>There is no commitment necessary. Everybody is dealing with enough priority overload already. We should flow, and that’s just how it goes.</p>
       </div>
     </div>
     <style jsx>{`

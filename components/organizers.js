@@ -3,11 +3,11 @@
     <h2 className="title is-2">Organizers</h2>
     <div className="columns">
       <div className="column">
-        <a href="https://twitter.com/_gilbproducing"><img src="/static/gil.jpg" alt="" /></a> 
+        <a href="https://www.linkedin.com/in/gilbertking/" target="_blank"><img src="/static/gil.jpg" alt="" /></a> 
         <p className="title is-5">Gilbert King</p>
       </div>
       <div className="column">
-        <a href="https://www.linkedin.com/in/cyrinathomas/"><img src="/static/Cyrina.JPG" alt="" /></a> 
+        <a href="https://www.linkedin.com/in/cyrinathomas/" target="_blank"><img src="/static/Cyrina.JPG" alt="" /></a> 
         <p className="title is-5">Cyrina Thomas</p> 
       </div>
     </div>
