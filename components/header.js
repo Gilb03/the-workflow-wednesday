@@ -7,7 +7,7 @@ const linkStyle = {
 const Header = () => (
   <div>
     <div className="header section">
-      <img className="logo" src="/static/workflowfinal.jpg" alt="" />
+      <img className="logo" src="/static/logo_transparent.png" alt="" />
       {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Every 2nd and 4th Wednesday, at 7:00pm, work with us.</p> */}
       {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Cincinati, Ohio</p> */}
       {/* <div className="column is-half is-offset-one-quarter">
