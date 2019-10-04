@@ -8,7 +8,7 @@ const Navbar = (props) => (
         <a className="navbar-item" href="#organizers">Organizers</a>
       </div>
       <div className="navbar-end">
-       {<a className="navbar-item" href="https://www.facebook.com/TheWRKFLW/" target="_blank">Facebook</a>}
+       {<a className="navbar-item" href="https://www.facebook.com/TheWRKFLW/?view_public_for=104958307569236" target="_blank">Facebook</a>}
       </div>
       <div className="navbar-item">
         <div className="field is-separated">
