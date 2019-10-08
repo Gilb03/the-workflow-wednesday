@@ -1,7 +1,6 @@
 const GroupBanner = () => (
   <div>
-    <img style={{ 'display': 'block' }} src="/static/AnnouncementWRKFLW.mp3" 
-   class="thumbnail" width="122" height="190" alt="" />
+    <img style={{ 'display': 'block' }} src="/static/group.jpg" alt="" />
   </div>
 )
 

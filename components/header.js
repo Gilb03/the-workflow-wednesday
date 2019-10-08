@@ -7,7 +7,12 @@ const linkStyle = {
 const Header = () => (
   <div>
     <div className="header section">
-      <img className="logo" src="/static/gil.jpg" class="circular-image" width="422" height="490"/>
+      <img className="logo" src="/static/Webp.net-resizeimage.png" alt="" width="422" height="490"/>
+      {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Every 2nd and 4th Wednesday, at 7:00pm, work with us.</p> */}
+      {/* <p style={{ 'fontWeight': 'bold', 'text-align': 'center' }}> Cincinati, Ohio</p> */}
+      {/* <div className="column is-half is-offset-one-quarter">
+          <a style={{'text-alight': 'center', margin: 'auto', display: 'block', width: '200'}} className="button">Register</a>
+        </div> */}
     </div>
     <style jsx>{`
       .logo {
@@ -21,7 +26,6 @@ const Header = () => (
         text-align: center;
         background-color: white;
         color: black;
-
       }
     `}</style>
 
