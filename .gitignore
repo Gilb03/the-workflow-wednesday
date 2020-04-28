@@ -8,6 +8,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.gitignore
 
 # Runtime data
 pids
@@ -39,12 +40,16 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.next/
+.vscode/
 
 # Typescript v1 declaration files
 typings/
 
 # Optional npm cache directory
 .npm
+package-lock.json
+
 
 # Optional eslint cache
 .eslintcache
@@ -54,6 +59,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+
 
 # Yarn Integrity file
 .yarn-integrity
